@@ -1,6 +1,6 @@
-## Privacy Policy
+# Privacy Policy
 
-# Effective Date: 30 December 2024
+- Effective Date: 30 December 2024
 
 Sporsh Dev, the developer of Audio Genie, values your privacy and is committed to protecting your personal data. This Privacy Policy explains how we collect, use, and safeguard your information when you use our app. By using the app, you agree to the terms of this Privacy Policy.
 
